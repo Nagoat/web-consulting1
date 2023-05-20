@@ -71,7 +71,7 @@ function openPage(no) {
 
 $(window).on('load', function() {
   $('body').addClass('loaded');
-  openPage(1);
+  openPage(2);
 });
 
 jQuery(function() {
